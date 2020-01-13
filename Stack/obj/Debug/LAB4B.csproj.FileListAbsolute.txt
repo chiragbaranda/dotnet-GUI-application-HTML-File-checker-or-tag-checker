@@ -1,0 +1,10 @@
+E:\Download\Stack\Stack\Stack\bin\Debug\Stack.exe.config
+E:\Download\Stack\Stack\Stack\bin\Debug\Stack.exe
+E:\Download\Stack\Stack\Stack\bin\Debug\Stack.pdb
+E:\Download\Stack\Stack\Stack\obj\Debug\LAB4B.csprojAssemblyReference.cache
+E:\Download\Stack\Stack\Stack\obj\Debug\Stack.Form1.resources
+E:\Download\Stack\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+E:\Download\Stack\Stack\Stack\obj\Debug\LAB4B.csproj.GenerateResource.cache
+E:\Download\Stack\Stack\Stack\obj\Debug\LAB4B.csproj.CoreCompileInputs.cache
+E:\Download\Stack\Stack\Stack\obj\Debug\Stack.exe
+E:\Download\Stack\Stack\Stack\obj\Debug\Stack.pdb
